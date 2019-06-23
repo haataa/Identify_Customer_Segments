@@ -19,9 +19,11 @@ This project identify segments of the population that form the core customer bas
 - Data_Dictionary.md: Detailed information file about the features in the provided datasets.
 - AZDIAS_Feature_Summary.csv: Summary of feature attributes for demographics data; 85 features (rows) x 4 columns
 2. Identify_Customer_Segments notebook record detail of the project.
+3. img folder contain result screenshots.
 
 # Result<a name="results"></a>
-To be written
+customer are clusted into 9 clusters and by comparing distribution cluster 4 are most over represented by target company.
+![Screenshot 1](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/WX20190623-215423%402x.png)
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
 This project was completed as part of the Udacity Data Scientist Nanodegree. 
