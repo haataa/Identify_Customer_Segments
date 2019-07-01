@@ -22,10 +22,16 @@ This project identify segments of the population that form the core customer bas
 3. img folder contain result screenshots.
 
 # Result<a name="results"></a>
-Blog post of the project can be found here[https://medium.com/@haataa/how-can-we-identify-customer-segments-using-cluster-method-94a58ddba772?postPublishedType=repub]
+Blog post of the project can be found in [medium](https://medium.com/@haataa/how-can-we-identify-customer-segments-using-cluster-method-94a58ddba772?postPublishedType=repub)
 
-customer are clusted into 10 clusters and by comparing distribution cluster 8 are most over represented by target company.
-![Screenshot 1](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/WX20190623-215423%402x.png)
+Customer are clusted into 10 clusters according to cluster numbers - SSE plot. ![Screenshot 4](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/20190701160146.png)
+
+Cluster distribution is very different between the general population and company customers. ![Screenshot 1](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/20190701154329.png)
+
+ To see the difference of each cluster I draw another graph. ![Screenshot 2](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/20190701154357.png)
+ 
+ 
+To have a visual of our cluster, I plot cluster distribution with two important features: GREEN_AVANTGARDE and FINANZ_MINIMALIST. ![Screenshot 3](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/20190701154414.png)
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
 This project was completed as part of the Udacity Data Scientist Nanodegree. 
