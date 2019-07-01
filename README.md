@@ -22,7 +22,9 @@ This project identify segments of the population that form the core customer bas
 3. img folder contain result screenshots.
 
 # Result<a name="results"></a>
-customer are clusted into 9 clusters and by comparing distribution cluster 4 are most over represented by target company.
+Blog post of the project can be found here[https://medium.com/@haataa/how-can-we-identify-customer-segments-using-cluster-method-94a58ddba772?postPublishedType=repub]
+
+customer are clusted into 10 clusters and by comparing distribution cluster 8 are most over represented by target company.
 ![Screenshot 1](https://github.com/haataa/Identify_Customer_Segments/blob/master/img/WX20190623-215423%402x.png)
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
